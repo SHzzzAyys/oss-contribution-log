@@ -34,6 +34,7 @@ Priority repositories:
 | Date | Target | Type | Status | Evidence |
 | --- | --- | --- | --- | --- |
 | 2026-05-31 | [`SHzzzAyys/manubot-paper`](https://github.com/SHzzzAyys/manubot-paper) | Repository foundation | Released | `v0.1.1` release, CI pass, citation metadata, reproducibility docs, release/privacy checklist. |
+| 2026-05-31 | [`SHzzzAyys/manubot-paper#7`](https://github.com/SHzzzAyys/manubot-paper/pull/7) | Maintenance PR | Merged | Contribution direction, changelog release scope, and requirements line-ending hygiene. |
 | 2026-05-31 | [`manubot/rootstock#494`](https://github.com/manubot/rootstock/issues/494#issuecomment-4585651722) | Issue triage | Commented | Generated tables and Manubot manuscript workflow notes. |
 | 2026-05-31 | [`manubot/manubot#374`](https://github.com/manubot/manubot/issues/374#issuecomment-4585651793) | Reproduction note | Commented | Windows/Manubot 0.6.1 PubMed citation failure behavior. |
 | 2026-05-31 | [`manubot/manubot-ai-editor#76`](https://github.com/manubot/manubot-ai-editor/issues/76#issuecomment-4585651861) | Documentation note | Commented | Documentation website structure and discoverability. |
@@ -47,6 +48,17 @@ Priority repositories:
 - Maintainer feedback: Self-maintained repository.
 - Follow-up: Use the repository as a public example when discussing Manubot
   workflow documentation, without claiming broad adoption.
+
+### 2026-05-31 - SHzzzAyys/manubot-paper#7
+
+- Type: Maintenance pull request.
+- Summary: Documented the external contribution direction, corrected changelog
+  release scope after `v0.1.1`, and normalized requirements file line endings.
+- Evidence: https://github.com/SHzzzAyys/manubot-paper/pull/7
+- Verification: GitHub Actions Manubot workflow passed on `main`.
+- Maintainer feedback: Self-maintained repository.
+- Follow-up: Keep future external contribution notes in `Unreleased` until the
+  next release.
 
 ### 2026-05-31 - manubot/rootstock#494
 
